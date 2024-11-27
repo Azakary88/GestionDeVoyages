@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1732023750 source:c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\destination.cpp
+	"Destination.h"
+	<iostream>
+
+1732023752 c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\destination.h
+	<string>
+	<vector>
+
+1732037795 source:c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\client.cpp
+	"Client.h"
+	<iostream>
+
+1732025779 c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\client.h
+	<string>
+
+1732042657 source:c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\main.cpp
+	<iostream>
+	"GestionVoyages.h"
+
+1732041503 c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\gestionvoyages.h
+	<vector>
+	<string>
+	"Destination.h"
+	"Client.h"
+	"Reservation.h"
+
+1732038063 c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\reservation.h
+	<string>
+
+1732042511 source:c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\reservation.cpp
+	"Reservation.h"
+	<iostream>
+
+1732042554 source:c:\users\abdoulaye maiga\desktop\code cpp\gestiondevoyages\gestionvoyages.cpp
+	"GestionVoyages.h"
+	"GestionVoyages.h"
+	"Destination.h"
+	"Reservation.h"
+	<iostream>
+	<fstream>
+
+1732720052 source:c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\client.cpp
+	"Client.h"
+	<iostream>
+
+1732720058 c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\client.h
+	<string>
+
+1732719185 source:c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\destination.cpp
+	"Destination.h"
+	<iostream>
+
+1732023752 c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\destination.h
+	<string>
+	<vector>
+
+1732720060 source:c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\gestionvoyages.cpp
+	"GestionVoyages.h"
+	"GestionVoyages.h"
+	"Destination.h"
+	"Reservation.h"
+	<iostream>
+	<fstream>
+
+1732041502 c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\gestionvoyages.h
+	<vector>
+	<string>
+	"Destination.h"
+	"Client.h"
+	"Reservation.h"
+
+1732038062 c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\reservation.h
+	<string>
+
+1732718787 source:c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\main.cpp
+	<iostream>
+	"GestionVoyages.h"
+
+1732042510 source:c:\users\abdoulaye maiga\desktop\gestiondevoyages\gestiondevoyages\reservation.cpp
+	"Reservation.h"
+	<iostream>
+

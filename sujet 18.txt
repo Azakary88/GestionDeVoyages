@@ -1,0 +1,7 @@
+18. Système de Gestion d'une Compagnie de Voyage
+Ajouter une destination de voyage avec nom, pays, et attractions principales.
+Enregistrer les réservations de clients avec nom, numéro de téléphone
+Modifier ou annuler une réservation existante.
+Afficher toutes les réservations pour une destination spécifique.
+Générer un rapport des revenus par destination.
+Exporter les informations de réservation dans un fichier.
